@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "445549780725",
+    "project_id": "signingapp-e52be",
+    "storage_bucket": "signingapp-e52be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445549780725:android:3f1ab8e36ca88a14f66fbc",
+        "android_client_info": {
+          "package_name": "com.example.signingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445549780725-k6b7g3b94sd7g1ghfubm3nt6mam7kjbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuMF3E6J_2fmByNcSmElyt8NC4mk9lreg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445549780725-k6b7g3b94sd7g1ghfubm3nt6mam7kjbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
